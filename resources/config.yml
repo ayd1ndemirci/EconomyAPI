@@ -1,0 +1,5 @@
+database:
+  type: sqlite
+  sqlite:
+    file: economy.db
+  worker-limit: 1
