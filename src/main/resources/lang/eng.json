@@ -1,0 +1,47 @@
+{
+  "menu.title": "Money Menu",
+  "menu.content": "§bYour Money: §f{money}",
+  "menu.back": "<- Go Back",
+  "money.menu.title": "Money Menu",
+  "money.menu.check_balance": "Check Your Balance",
+  "money.menu.check_others_balance": "Check Others' Balance",
+  "money.menu.send_money": "Send Money",
+  "money.menu.riches": "Riches",
+
+  "paymoney.title": "Send Money Form",
+  "paymoney.select_player": "Select Player:",
+  "paymoney.enter_amount": "Enter Amount:",
+  "paymoney.enter_amount.placeholder": "E.g., 200",
+  "paymoney.no_players": "§c» No other players are online!",
+
+  "riches.title": "Rich Players",
+  "riches.player_rank": "§b{rank}. §2{player} §a» §2{money}",
+  "riches.your_rank": "§aYour Rank §7=> §2{rank}",
+  "riches.back_button": "§cBack",
+
+  "command.money.description": "Opens the economy screen",
+
+  "command.addmoney.invalid_amount": "§c» Please enter a valid amount.",
+  "command.addmoney.positive_amount": "§c» The amount must be positive.",
+  "command.addmoney.success": "§2» {player} §ahas been added §2{money}§a to the player.",
+  "command.addmoney.description": "Add money to a player",
+  "command.addmoney.usage": "/addmoney <playerName> <money>",
+
+  "command.seemoney.description": "Check the player's money",
+  "command.seemoney.usage": "§c» Usage: /seemoney <playerName>",
+  "command.seemoney.success": "§2» {player}'s §amoney: §2{money}",
+
+  "command.setmoney.description": "Sets a player's money.",
+  "command.setmoney.usage": "§c» Usage: /setmoney <playerName> <amount>",
+  "command.setmoney.invalid_amount": "§c» Please enter a valid amount.",
+  "command.setmoney.negative_amount": "§c» The amount must be zero or positive.",
+  "command.setmoney.success": "§2» The money of player §2{player} §ahas been set to §2{money}.",
+
+  "command.takemoney.description": "Takes money from a player.",
+  "command.takemoney.usage": "§c» Usage: /takemoney <playerName> <amount>",
+  "command.takemoney.invalid_amount": "§c» Please enter a valid amount.",
+  "command.takemoney.negative_amount": "§c» The amount must be a positive number.",
+  "command.takemoney.insufficient_funds": "§c» The player does not have enough money.",
+  "command.takemoney.success": "§2» {money} §ahas been taken from player §2{player}."
+
+}

@@ -1,0 +1,46 @@
+{
+  "menu.title": "Para Menüsü",
+  "menu.content": "§bParan: §f{money}",
+  "menu.back": "<- Geri Dön",
+  "money.menu.title": "Para Menüsü",
+  "money.menu.check_balance": "Parana Bak",
+  "money.menu.check_others_balance": "Başkasının Parasına Bak",
+  "money.menu.send_money": "Para Gönder",
+  "money.menu.riches": "Zenginler",
+
+  "paymoney.title": "Para Gönderme Formu",
+  "paymoney.select_player": "Oyuncu Seç:",
+  "paymoney.enter_amount": "Miktar Gir:",
+  "paymoney.enter_amount.placeholder": "Örn; 200",
+  "paymoney.no_players": "§c» Sunucuda başka bir oyuncu yok!",
+
+  "riches.title": "Zengin Oyuncular",
+  "riches.player_rank": "§b{rank}. §2{player} §a» §2{money}",
+  "riches.your_rank": "§aSenin Sıran §7=> §2{rank}",
+  "riches.back_button": "§cGeri",
+
+  "command.money.description": "Ekonomi ekranını açar",
+
+  "command.addmoney.invalid_amount": "§c» Geçerli bir miktar girin.",
+  "command.addmoney.positive_amount": "§c» Para miktarı pozitif olmalıdır.",
+  "command.addmoney.success": "§2» %s §aadlı oyuncuya §2%s §aeklendi.",
+  "command.addmoney.description": "Bir oyuncuya para eklersiniz",
+  "command.addmoney.usage": "/addmoney <playerName> <money>",
+
+  "command.seemoney.description": "Oyuncunun parasına bakarsınız",
+  "command.seemoney.usage": "§c» Kullanım: /seemoney <playerName>",
+  "command.seemoney.success": "§2» {player} §aisimli oyuncunun parası: §2{money}",
+
+  "command.setmoney.description": "Bir oyuncunun parasını ayarlarsınız.",
+  "command.setmoney.usage": "§c» Kullanım: /setmoney <oyuncuAdı> <miktar>",
+  "command.setmoney.invalid_amount": "§c» Geçerli bir miktar girin.",
+  "command.setmoney.negative_amount": "§c» Para miktarı sıfır veya pozitif olmalıdır.",
+  "command.setmoney.success": "§2» {player} §aadlı oyuncunun parası §2{money} §aolarak ayarlandı.",
+
+  "command.takemoney.description": "Bir oyuncudan para alırsınız.",
+  "command.takemoney.usage": "§c» Kullanım: /takemoney <oyuncuAdı> <miktar>",
+  "command.takemoney.invalid_amount": "§c» Geçerli bir miktar girin.",
+  "command.takemoney.negative_amount": "§c» Para miktarı pozitif bir sayı olmalıdır.",
+  "command.takemoney.insufficient_funds": "§c» Oyuncunun yeterli parası yok.",
+  "command.takemoney.success": "§2» {player} §aadlı oyuncudan §2{money} §aalındı."
+}
