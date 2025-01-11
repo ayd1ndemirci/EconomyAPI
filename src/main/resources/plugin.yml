@@ -1,5 +1,5 @@
 name: EconomyAPI
-main: erila.EconomyAPI.Main
+main: ayd1ndemirci.EconomyAPI.Main
 version: "1.0.0"
 api: "2.0.0"
 author: EngincanErgunGG & ayd1ndemirci
